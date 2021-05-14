@@ -10,16 +10,15 @@ section
     
     p El curso de Gobierno Digital e Interoperabilidad busca que los aprendices reconozcan las características de interoperabilidad, en el marco de la política de gobierno digital y además Identifiquen la herramienta de interoperabilidad para Colombia de acuerdo con el propósito de la política de estrategia de gobierno digital.
 
-
-
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
+        
     .titulo__template--a.mb-4
       span.h6 2. Justificación<br>del programa
-    
+  
     .row
-      .col-12.col-md-9.mb-4.mb-md-0
+      .col-12.col-md-8.col-lg-9
         p El curso de Gobierno Digital e Interoperabilidad está propuesto con el fin de comprender las necesidades de ofrecer al ciudadano soluciones que garanticen mayor capacidad de atención a los ciudadanos agilizando trámites, información y participación para el ejercicio de sus derechos y mejoramiento de su calidad de vida, de ahí la importancia de la generación de competencias en los servidores públicos del país que permita reconocer el esquema de interoperabilidad, en el marco de la política de gobierno digital para el Estado Colombiano, mediante el uso de software.
-      .col-9.col-md-3
+      .col-4.col-lg-3.d-none.d-md-block
         figure
           img(src='@/assets/curso/05.png', alt='El instructor - tutor')    
 
