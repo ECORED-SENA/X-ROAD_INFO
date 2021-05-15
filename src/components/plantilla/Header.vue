@@ -3,7 +3,7 @@ header.header
   .container
     .row.align-items-center.justify-content-between
       .col.col-sm-auto.d-flex.align-items-center.justify-content-between.justify-content-sm-star
-        img.header__logo.me-sm-5(src="@/assets/template/logo-sena-naranja.svg")
+        img.header__logo.me-sm-5(src="@/assets/template/logos.png")
 
 </template>
 

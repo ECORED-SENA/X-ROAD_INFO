@@ -80,11 +80,6 @@ section
           img.w-75.mx-auto(src='@/assets/curso/03.svg', alt='El instructor - tutor')
         p.text-center
           strong Las TIC
-      .col-5.col-sm-3.col-md-2
-        figure.mb-2
-          img.w-75.mx-auto(src='@/assets/curso/04.svg', alt='El instructor - tutor')
-        p.text-center
-          strong El trabajo colaborativo
 
   //- Créditos
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.mb-5
