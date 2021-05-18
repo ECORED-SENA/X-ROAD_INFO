@@ -330,7 +330,7 @@ export const creditos = {
   gestoresRepositorio: [
     {
       nombre: 'Milady Tatiana Villamil Castellanos',
-      cargo: 'Validación de recursos',
+      cargo: 'Validación y vinculación en plataforma LMS',
       centro: 'Centro de comercio y servicios',
       regional: 'Regional Tolima',
     },
