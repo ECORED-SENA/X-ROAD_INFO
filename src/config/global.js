@@ -5,10 +5,9 @@ export const global = {
   semanas: '4 semanas',
   modalidad: 'virtual',
   requisitosIngrso: [
-    'Solicitud de las Instituciones del Sistema General de Seguridad Social en Salud.',
-    'Profesionales, tecnólogos y técnicos de salud que brindan atención a las víctimas de ataque con agentes químicos.',
-    'Cumplir con el trámite de selección definido por el Centro de Formación.',
-    'Se requiere que el aprendiz AVA (Ambientes Virtuales de Aprendizaje) tenga dominio de elementos básicos en el manejo de herramientas informáticas y de comunicación como correo electrónico, chat, procesadores de texto, software para presentaciones, navegadores de Internet, y otros sistemas y herramientas tecnológicas necesarias para la formación virtual.',
+    'Fotocopia del documento de identidad',
+    'Competencias básicas en lecto escritura',
+    'Ser Servidores públicos',
   ],
   // imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
   videoBannerPrincipal:
@@ -295,12 +294,6 @@ export const creditos = {
       centro: 'Centro para la Industria de la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
-    {
-      nombre: 'María Isabel Román Rueda',
-      cargo: 'Revisora de estilo',
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
-    },
   ],
   desarrolloProducto: [
     {
@@ -314,6 +307,7 @@ export const creditos = {
     {
       nombre: [
         'María Natalia Maldonado Delgado',
+        'Luis Gabriel Urueta Alvarez',
         'Zuleidy Maria Ruiz Torres',
         'Andrés Felipe Herrera Roldan',
         'Víctor Cardenas',
@@ -323,6 +317,12 @@ export const creditos = {
     {
       nombre: 'Luis Gabriel Urueta Alvarez',
       cargo: 'Desarrollo Front-End',
+    },
+    {
+      nombre: 'María Isabel Román Rueda',
+      cargo: 'Validación de diseño contenido',
+      centro: 'Centro Industrial del Diseño y la Manufactura',
+      regional: 'Regional Santander',
     },
     {
       centro: 'Centro Industrial del Diseño y la Manufactura',
