@@ -321,8 +321,6 @@ export const creditos = {
     {
       nombre: 'María Isabel Román Rueda',
       cargo: 'Validación de diseño contenido',
-      centro: 'Centro Industrial del Diseño y la Manufactura',
-      regional: 'Regional Santander',
     },
     {
       centro: 'Centro Industrial del Diseño y la Manufactura',
