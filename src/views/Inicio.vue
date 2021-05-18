@@ -57,11 +57,11 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
     .titulo__template--a.mb-4
-      span.h6 6. Estrategia<br>metodológica
+      span.h6 5. Estrategia<br>metodológica
 
     p.mb-4 Centrada en la construcción de autonomía para garantizar la calidad de los procesos formativos   en el marco de la formación por competencias, el aprendizaje por proyectos y el  uso de  técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en el utilización de las tecnologías de la información y la comunicación, integradas, en ambientes abiertos y pluri tecnológicos, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
 
-    p.mb-4 Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento.
+    p.mb-4 Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento.
 
     .row.g-4.justify-content-center
       .col-5.col-sm-3.col-md-2
